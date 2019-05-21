@@ -121,8 +121,8 @@ div.main-title-description {
 header {
 	width:100%;
 	height:70%;
-    background-image:url("../img/bg3.jpg");
-    background-size: cover;
+  background-image:url("../img/bg3.jpg");
+   background-size: cover;
 }
 
 
@@ -169,8 +169,8 @@ p.section-content {
 }
 
 img#profile-img {
-	width: 70%;
-	height: 70%;
+	width: 4em;
+	height: 4em;
 	border-radius: 50%;
 	float:right;
 }
@@ -184,8 +184,27 @@ div#me-left {
 	font-size: 0.5em;
 	width:80%;
 	float:left;
+  padding-right: 5px;
+  padding-bottom: 5px;
 }
 
+@media screen and (max-width: 800px) {
+  div#me-right {
+    width: 100%;
+    float: left;
+  }
+  div#me-left {
+    width: 100%;
+    float: left;
+  }
+
+  img#profile-img {
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    float:center;
+  }
+}
 
 
 /* Create three equal columns that floats next to each other */
@@ -289,8 +308,33 @@ a.contact-link:hover, a.contact-link:active {
 
 
 
+footer {
+  width: 100%;
+  overflow:hidden;
+  background-color: #1f2120;
+}
 
+.footer-content {
+  position: relative;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  width: 80%;
+}
 
+.copyright {
+  font-style: italic;
+  font-size: 0.35em;
+  color: gray;
+}
+
+a.copyright-links:link, a.copyright-links:visited {
+  color: gray;
+}
+
+a.copyright-links:hover, a.copyright-links:active {
+  color: #b14d57;
+}
 
 /* TIMELINE */
 /* The actual timeline (the vertical ruler) */
