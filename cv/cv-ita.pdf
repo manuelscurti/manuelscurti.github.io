@@ -97,7 +97,7 @@ q 0.0 g BT 164.40 201.09 Td (Creazione dashboard per visualizzazione clienti su 
 0 Tw
 q 0.0 g BT 164.40 189.75 Td (geolocalizzazione messe a disposizione da Google.) Tj ET Q
 q 0.0 g BT 164.40 172.74 Td (Lavoro Saltuario) Tj ET Q
-q 0.0 g BT 35.59 150.07 Td (01/10/2016 - 31/12/2017) Tj ET Q
+q 0.0 g BT 35.59 150.07 Td (01/10/2016 - 02/01/2017) Tj ET Q
 q 0.0 0.309 0.615 rg BT 164.40 150.07 Td (Sviluppo CRM e migrazione dati) Tj ET Q
 q 0.0 g BT 164.40 133.06 Td (Studio Gaia società di ingegneria s.r.l. - Torino - ITALIA) Tj ET Q
 q 0.0 g BT 164.40 116.05 Td (Lavoro Saltuario) Tj ET Q
@@ -129,7 +129,7 @@ endobj
 /Contents 6 0 R>>
 endobj
 6 0 obj
-<</Length 6129>>
+<</Length 6138>>
 stream
 2 J
 0.85 w
@@ -203,7 +203,7 @@ q 0.0 g BT 75.65 450.54 Td (APPLICAZIONI) Tj ET Q
 q 0.0 g BT 164.40 461.88 Td (software di ambito ingegneristico: Matlab/Simulink) Tj ET Q
 q 0.0 g BT 164.40 450.54 Td (Livello buono) Tj ET Q
 q 0.0 g BT 83.43 427.86 Td (BASI DI DATI) Tj ET Q
-q 0.0 g BT 164.40 427.86 Td (MySQL, PL/SQL, MongoDB) Tj ET Q
+q 0.0 g BT 164.40 427.86 Td (MySQL, OracleSQL, PL/SQL, HBase) Tj ET Q
 q 0.0 g BT 164.40 416.52 Td (Livello buono) Tj ET Q
 q 0.0 g BT 123.45 393.85 Td (CAD) Tj ET Q
 q 0.0 g BT 164.40 393.85 Td (Simulink) Tj ET Q
@@ -1016,7 +1016,7 @@ endobj
 /Producer (PL_FPDF 0.9.4 portage pour Laclasse.com par P.G. Levallois de la version 1.53 de PHP/FPDF d'Olivier Plathey.)
 /Title (Curriculum Vitae Manuel SCURTI)
 /Author (Politecnico di Torino - Career Service Office)
-/CreationDate (D:20190924163947)
+/CreationDate (D:20190924172922)
 >>
 endobj
 25 0 obj
@@ -1030,31 +1030,31 @@ endobj
 xref
 0 26
 0000000000 65535 f 
-0000013453 00000 n 
-0000169510 00000 n 
+0000013462 00000 n 
+0000169519 00000 n 
 0000000009 00000 n 
 0000000237 00000 n 
 0000005462 00000 n 
 0000005872 00000 n 
-0000012051 00000 n 
-0000012279 00000 n 
-0000013552 00000 n 
-0000013648 00000 n 
-0000013750 00000 n 
-0000013855 00000 n 
-0000014899 00000 n 
-0000015717 00000 n 
-0000017074 00000 n 
-0000017892 00000 n 
-0000019270 00000 n 
-0000020088 00000 n 
-0000021096 00000 n 
-0000021914 00000 n 
-0000023302 00000 n 
-0000024120 00000 n 
-0000168692 00000 n 
-0000169702 00000 n 
-0000169974 00000 n 
+0000012060 00000 n 
+0000012288 00000 n 
+0000013561 00000 n 
+0000013657 00000 n 
+0000013759 00000 n 
+0000013864 00000 n 
+0000014908 00000 n 
+0000015726 00000 n 
+0000017083 00000 n 
+0000017901 00000 n 
+0000019279 00000 n 
+0000020097 00000 n 
+0000021105 00000 n 
+0000021923 00000 n 
+0000023311 00000 n 
+0000024129 00000 n 
+0000168701 00000 n 
+0000169711 00000 n 
+0000169983 00000 n 
 trailer
 <<
 /Size 26
@@ -1062,5 +1062,5 @@ trailer
 /Info 24 0 R
 >>
 startxref
-170078
+170087
 %%EOF
