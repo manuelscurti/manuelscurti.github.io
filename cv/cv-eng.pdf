@@ -7,7 +7,7 @@
 /Contents 4 0 R>>
 endobj
 4 0 obj
-<</Length 5222>>
+<</Length 5341>>
 stream
 2 J
 0.56 w
@@ -47,66 +47,66 @@ q 0.0 0.309 0.615 rg BT 164.40 580.93 Td (Master's Degree in Computer Engineerin
 q 0.0 g BT 164.40 563.92 Td (Politecnico di Torino) Tj ET Q
 q 0.0 g BT 164.40 546.92 Td (Thesis: Data-Driven Analysis to Improve Oncological Processes in Hospital) Tj ET Q
 q 0.0 g BT 164.40 529.91 Td (Supervisors Chiusano S., Menasalvas Ruiz E.) Tj ET Q
-q 0.0 g BT 35.59 507.23 Td (09/10/2014 - 09/25/2017) Tj ET Q
+q 0.0 g BT 164.40 512.90 Td (Final grade 110/110 cum laude) Tj ET Q
+q 0.0 g BT 35.59 490.22 Td (09/10/2014 - 09/25/2017) Tj ET Q
 BT /F1 24.0 Tf ET
-q 0.862 0.039 0.039 rg BT 150.23 503.03 Td (*) Tj ET Q
+q 0.862 0.039 0.039 rg BT 150.23 486.02 Td (*) Tj ET Q
 BT /F1 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 164.40 507.23 Td (Bachelor's Degree in Computer Engineering) Tj ET Q
-q 0.0 g BT 164.40 490.22 Td (Politecnico di Torino) Tj ET Q
-q 0.0 g BT 164.40 473.22 Td (Final grade 94/110) Tj ET Q
+q 0.0 0.309 0.615 rg BT 164.40 490.22 Td (Bachelor's Degree in Computer Engineering) Tj ET Q
+q 0.0 g BT 164.40 473.22 Td (Politecnico di Torino) Tj ET Q
+q 0.0 g BT 164.40 456.21 Td (Final grade 94/110) Tj ET Q
 0.0 0.309 0.615 RG
 BT /F2 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 62.90 444.87 Td (INTERNATIONAL) Tj ET Q
-q 0.0 0.309 0.615 rg BT 80.10 433.53 Td (EXPERIENCE) Tj ET Q
-150.23 430.86 m 552.75 430.86 l S
+q 0.0 0.309 0.615 rg BT 62.90 427.86 Td (INTERNATIONAL) Tj ET Q
+q 0.0 0.309 0.615 rg BT 80.10 416.52 Td (EXPERIENCE) Tj ET Q
+150.23 413.85 m 552.75 413.85 l S
 BT /F1 10.0 Tf ET
 0.0 G
-q 0.0 g BT 35.59 410.85 Td (09/03/2018 - 07/01/2019) Tj ET Q
+q 0.0 g BT 35.59 393.85 Td (09/03/2018 - 07/01/2019) Tj ET Q
 BT /F1 24.0 Tf ET
-q 0.862 0.039 0.039 rg BT 150.23 406.65 Td (*) Tj ET Q
+q 0.862 0.039 0.039 rg BT 150.23 389.65 Td (*) Tj ET Q
 BT /F1 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 164.40 410.85 Td (E+/EU PROGRAMME COUNTRIES) Tj ET Q
+q 0.0 0.309 0.615 rg BT 164.40 393.85 Td (E+/EU PROGRAMME COUNTRIES) Tj ET Q
 0.557 Tw
-q 0.0 g BT 164.40 393.85 Td (ETS DE INGENIEROS INFORMATICOS - UNIVERSIDAD POLITECNICA DE MADRID) Tj ET Q
+q 0.0 g BT 164.40 376.84 Td (ETS DE INGENIEROS INFORMATICOS - UNIVERSIDAD POLITECNICA DE MADRID) Tj ET Q
 0 Tw
-q 0.0 g BT 164.40 382.51 Td (- MADRID - SPAGNA) Tj ET Q
+q 0.0 g BT 164.40 365.50 Td (- MADRID - SPAGNA) Tj ET Q
 0.0 0.309 0.615 RG
 BT /F2 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 65.66 354.16 Td (PROFESSIONAL) Tj ET Q
-q 0.0 0.309 0.615 rg BT 80.10 342.82 Td (EXPERIENCE) Tj ET Q
-150.23 340.15 m 552.75 340.15 l S
+q 0.0 0.309 0.615 rg BT 65.66 337.15 Td (PROFESSIONAL) Tj ET Q
+q 0.0 0.309 0.615 rg BT 80.10 325.81 Td (EXPERIENCE) Tj ET Q
+150.23 323.14 m 552.75 323.14 l S
 BT /F1 10.0 Tf ET
 0.0 G
-q 0.0 g BT 35.59 320.14 Td (02/04/2019 - 06/28/2019) Tj ET Q
-q 0.0 0.309 0.615 rg BT 164.40 320.14 Td (Data Scientist) Tj ET Q
-q 0.0 g BT 164.40 303.14 Td (Center for Biomedical Technology - UPM - Madrid - SPAIN) Tj ET Q
+q 0.0 g BT 27.26 303.14 Td (12/04/2019 - up to present) Tj ET Q
+q 0.0 0.309 0.615 rg BT 164.40 303.14 Td (Junior Consultant) Tj ET Q
+q 0.0 g BT 164.40 286.13 Td (Core Reply S.R.L. - Milan - ITALY) Tj ET Q
+q 0.0 g BT 164.40 269.12 Td (Modernization of customer's Core Banking services:) Tj ET Q
+q 0.0 g BT 164.40 257.78 Td (- Assessment of available resources and existing IT infrastructure) Tj ET Q
+0.161 Tw
+q 0.0 g BT 164.40 246.44 Td (- Study of architectural solutions \(microservices\) for batches offloading from mainframe) Tj ET Q
+0 Tw
+q 0.0 g BT 164.40 235.11 Td (to a cloud environment) Tj ET Q
+q 0.0 g BT 164.40 223.77 Td (- Writing of the architectural proposal and relative documentation) Tj ET Q
+q 0.0 g BT 164.40 201.09 Td (Development of company's offer:) Tj ET Q
+4.329 Tw
+q 0.0 g BT 164.40 189.75 Td (- Evaluation of existing solutions on the market which implement microservices) Tj ET Q
+0 Tw
+q 0.0 g BT 164.40 178.41 Td (architecture for CI/CD) Tj ET Q
+3.934 Tw
+q 0.0 g BT 164.40 167.07 Td (- Integration of advanced features for transactional data analysis using Machine) Tj ET Q
+0 Tw
+q 0.0 g BT 164.40 155.74 Td (Learning techniques) Tj ET Q
+q 0.0 g BT 164.40 138.73 Td (Apprenticeship) Tj ET Q
+q 0.0 g BT 35.59 116.05 Td (02/04/2019 - 06/28/2019) Tj ET Q
+q 0.0 0.309 0.615 rg BT 164.40 116.05 Td (Data Scientist) Tj ET Q
+q 0.0 g BT 164.40 99.04 Td (Center for Biomedical Technology - UPM - Madrid - SPAIN) Tj ET Q
 0.627 Tw
-q 0.0 g BT 164.40 286.13 Td (Worked as intern at the Center for Biomedical Technology, inside the IT campus of the) Tj ET Q
+q 0.0 g BT 164.40 82.03 Td (Worked as intern at the Center for Biomedical Technology, inside the IT campus of the) Tj ET Q
 3.024 Tw
-q 0.0 g BT 164.40 274.79 Td (Universidad Politecnica de Madrid where I developed my final master thesis. The) Tj ET Q
+q 0.0 g BT 164.40 70.70 Td (Universidad Politecnica de Madrid where I developed my final master thesis. The) Tj ET Q
 1.127 Tw
-q 0.0 g BT 164.40 263.45 Td (objective is to analyze hospital's KPIs for health care improvement. This is part of the) Tj ET Q
 0 Tw
-q 0.0 g BT 164.40 252.11 Td (BigMedilytics European Project.) Tj ET Q
-q 0.0 g BT 164.40 235.11 Td (Thesis project) Tj ET Q
-q 0.0 g BT 35.59 212.43 Td (07/03/2017 - 10/02/2017) Tj ET Q
-q 0.0 0.309 0.615 rg BT 164.40 212.43 Td (Software Engineer) Tj ET Q
-q 0.0 g BT 164.40 195.42 Td (Enerclima S.R.L. - Pescara - ITALY) Tj ET Q
-2.810 Tw
-q 0.0 g BT 164.40 178.41 Td (Creation of a dashboard to visualize clients in a map. This has been done using) Tj ET Q
-0 Tw
-q 0.0 g BT 164.40 167.07 Td (Google's Geolocation APIs.) Tj ET Q
-q 0.0 g BT 164.40 150.07 Td (Occasional Work) Tj ET Q
-q 0.0 g BT 35.59 127.39 Td (10/01/2016 - 12/31/2017) Tj ET Q
-q 0.0 0.309 0.615 rg BT 164.40 127.39 Td (CRM customization and data migration) Tj ET Q
-q 0.0 g BT 164.40 110.38 Td (Studio Gaia società di Ingegneria s.r.l. - Torino - ITALY) Tj ET Q
-q 0.0 g BT 164.40 93.37 Td (Occasional Work) Tj ET Q
-0.0 0.309 0.615 RG
-BT /F2 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 49.00 65.03 Td (LANGUAGE SKILLS) Tj ET Q
-150.23 62.36 m 552.75 62.36 l S
-BT /F1 10.0 Tf ET
-0.0 G
 0.0 G
 BT /F1 7.0 Tf ET
 q 0.0 g BT 31.18 47.50 Td (I declare that I read the privacy statement on the processing of my personal data and my rights within the meaning of the General Data Protection) Tj ET Q
@@ -116,7 +116,7 @@ q 0.0 g BT 31.18 30.49 Td (https://didattica.polito.it/privacy/index_en.html) Tj
 BT /F1 7.0 Tf ET
 q 0.0 g BT 172.03 30.49 Td (. I hereby give my consent to the processing of my personal data included in my CV.) Tj ET Q
 BT /F1 8.0 Tf ET
-q 0.0 g BT 523.16 42.95 Td (pag. 1/ 3) Tj ET Q
+q 0.0 g BT 523.16 42.95 Td (pag. 1/ 2) Tj ET Q
 BT /F1 10.0 Tf ET
 
 endstream
@@ -125,166 +125,134 @@ endobj
 <</Type /Page
 /Parent 1 0 R
 /Resources 2 0 R
-/Annots [<</Type /Annot /Subtype /Link /Rect [164.40 655.96 377.38 647.96] /Border [0 0 0] /A <</S /URI /URI (http://europass.cedefop.europa.eu/it/resources/european-language-levels-cefr)>>>><</Type /Annot /Subtype /Link /Rect [31.18 36.09 172.02 29.09] /Border [0 0 0] /A <</S /URI /URI (https://didattica.polito.it/privacy/index_en.html)>>>>]
+/Annots [<</Type /Annot /Subtype /Link /Rect [164.40 599.27 377.38 591.27] /Border [0 0 0] /A <</S /URI /URI (http://europass.cedefop.europa.eu/it/resources/european-language-levels-cefr)>>>><</Type /Annot /Subtype /Link /Rect [31.18 36.09 172.02 29.09] /Border [0 0 0] /A <</S /URI /URI (https://didattica.polito.it/privacy/index_en.html)>>>>]
 /Contents 6 0 R>>
 endobj
 6 0 obj
-<</Length 6108>>
+<</Length 6123>>
 stream
 2 J
 0.85 w
 BT /F1 10.0 Tf ET
 0.0 G
-q 0.0 0.309 0.615 rg BT 80.08 753.85 Td (Mother tongue) Tj ET Q
-q 0.0 g BT 164.40 753.85 Td (Italian) Tj ET Q
-q 0.0 0.309 0.615 rg BT 70.63 728.33 Td (Other languages) Tj ET Q
+1.127 Tw
+q 0.0 g BT 164.40 776.52 Td (objective is to analyze hospital's KPIs for health care improvement. This is part of the) Tj ET Q
+0 Tw
+q 0.0 g BT 164.40 765.18 Td (BigMedilytics European Project.) Tj ET Q
+q 0.0 g BT 164.40 748.18 Td (Thesis project) Tj ET Q
+0.0 0.309 0.615 RG
+BT /F2 10.0 Tf ET
+q 0.0 0.309 0.615 rg BT 49.00 719.83 Td (LANGUAGE SKILLS) Tj ET Q
+150.23 717.16 m 552.75 717.16 l S
+BT /F1 10.0 Tf ET
+0.0 G
+q 0.0 0.309 0.615 rg BT 80.08 697.15 Td (Mother tongue) Tj ET Q
+q 0.0 g BT 164.40 697.15 Td (Italian) Tj ET Q
+q 0.0 0.309 0.615 rg BT 70.63 671.64 Td (Other languages) Tj ET Q
 0.56 w
 0.250 0.250 0.250 RG
-161.57 739.84 m 547.08 739.84 l S
-q 0.0 g BT 177.49 728.33 Td (UNDERSTANDING) Tj ET Q
-q 0.0 g BT 348.60 728.33 Td (SPEAKING) Tj ET Q
-q 0.0 g BT 482.90 728.33 Td (WRITING) Tj ET Q
-161.57 722.83 m 547.08 722.83 l S
-280.62 739.84 m 280.62 705.82 l S
-223.93 722.83 m 223.93 705.82 l S
-374.17 722.83 m 374.17 705.82 l S
-467.71 739.84 m 467.71 705.82 l S
-q 0.0 g BT 172.74 711.33 Td (Listening) Tj ET Q
-q 0.0 g BT 233.66 711.33 Td (Reading) Tj ET Q
-q 0.0 g BT 285.99 711.33 Td (Spoken interaction) Tj ET Q
-q 0.0 g BT 379.25 711.33 Td (Spoken production) Tj ET Q
-161.57 705.82 m 547.08 705.82 l S
-q 0.0 g BT 111.77 694.32 Td (English) Tj ET Q
+161.57 683.14 m 547.08 683.14 l S
+q 0.0 g BT 177.49 671.64 Td (UNDERSTANDING) Tj ET Q
+q 0.0 g BT 348.60 671.64 Td (SPEAKING) Tj ET Q
+q 0.0 g BT 482.90 671.64 Td (WRITING) Tj ET Q
+161.57 666.14 m 547.08 666.14 l S
+280.62 683.14 m 280.62 649.13 l S
+223.93 666.14 m 223.93 649.13 l S
+374.17 666.14 m 374.17 649.13 l S
+467.71 683.14 m 467.71 649.13 l S
+q 0.0 g BT 172.74 654.63 Td (Listening) Tj ET Q
+q 0.0 g BT 233.66 654.63 Td (Reading) Tj ET Q
+q 0.0 g BT 285.99 654.63 Td (Spoken interaction) Tj ET Q
+q 0.0 g BT 379.25 654.63 Td (Spoken production) Tj ET Q
+161.57 649.13 m 547.08 649.13 l S
+q 0.0 g BT 111.77 637.63 Td (English) Tj ET Q
 BT /F1 24.0 Tf ET
-q 0.862 0.039 0.039 rg BT 147.40 687.28 Td (*) Tj ET Q
+q 0.862 0.039 0.039 rg BT 147.40 630.59 Td (*) Tj ET Q
 BT /F1 10.0 Tf ET
-q 0.0 g BT 186.64 694.32 Td (B2) Tj ET Q
-q 0.0 g BT 246.16 694.32 Td (B2) Tj ET Q
-q 0.0 g BT 324.12 694.32 Td (B2) Tj ET Q
-q 0.0 g BT 414.82 694.32 Td (B2) Tj ET Q
-q 0.0 g BT 498.45 694.32 Td (B2) Tj ET Q
-161.57 688.81 m 547.08 688.81 l S
-q 0.0 g BT 108.43 677.31 Td (Spanish) Tj ET Q
-q 0.0 g BT 186.64 677.31 Td (B1) Tj ET Q
-q 0.0 g BT 246.16 677.31 Td (B1) Tj ET Q
-q 0.0 g BT 324.12 677.31 Td (B1) Tj ET Q
-q 0.0 g BT 414.82 677.31 Td (B1) Tj ET Q
-q 0.0 g BT 498.45 677.31 Td (B1) Tj ET Q
-161.57 671.81 m 547.08 671.81 l S
+q 0.0 g BT 186.64 637.63 Td (B2) Tj ET Q
+q 0.0 g BT 246.16 637.63 Td (B2) Tj ET Q
+q 0.0 g BT 324.12 637.63 Td (B2) Tj ET Q
+q 0.0 g BT 414.82 637.63 Td (B2) Tj ET Q
+q 0.0 g BT 498.45 637.63 Td (B2) Tj ET Q
+161.57 632.12 m 547.08 632.12 l S
+q 0.0 g BT 108.43 620.62 Td (Spanish) Tj ET Q
+q 0.0 g BT 186.64 620.62 Td (B1) Tj ET Q
+q 0.0 g BT 246.16 620.62 Td (B1) Tj ET Q
+q 0.0 g BT 324.12 620.62 Td (B1) Tj ET Q
+q 0.0 g BT 414.82 620.62 Td (B1) Tj ET Q
+q 0.0 g BT 498.45 620.62 Td (B1) Tj ET Q
+161.57 615.11 m 547.08 615.11 l S
 0.85 w
 0.0 G
 BT /F1 8.0 Tf ET
-q 0.0 0.309 0.615 rg BT 164.40 662.32 Td (Levels: A1/2: Basic user - B1/2: Independent user - C1/2 Proficient user) Tj ET Q
+q 0.0 0.309 0.615 rg BT 164.40 605.63 Td (Levels: A1/2: Basic user - B1/2: Independent user - C1/2 Proficient user) Tj ET Q
 BT /F1 8.0 Tf ET
-q 0.0 0.309 0.615 rg BT 164.40 649.56 Td (Common European Framework of Reference for Languages) Tj ET 164.40 648.76 212.97 -.4 re f Q
+q 0.0 0.309 0.615 rg BT 164.40 592.87 Td (Common European Framework of Reference for Languages) Tj ET 164.40 592.07 212.97 -.4 re f Q
 BT /F1 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 49.51 623.45 Td (Language certificates) Tj ET Q
-q 0.0 g BT 122.32 606.44 Td (2016) Tj ET Q
-q 0.0 g BT 164.40 606.44 Td (IELTS : 6.0) Tj ET Q
+q 0.0 0.309 0.615 rg BT 49.51 566.76 Td (Language certificates) Tj ET Q
+q 0.0 g BT 122.32 549.75 Td (2016) Tj ET Q
+q 0.0 g BT 164.40 549.75 Td (IELTS : 6.0) Tj ET Q
 0.0 0.309 0.615 RG
 BT /F2 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 49.00 575.26 Td (COMPUTER SKILLS) Tj ET Q
-150.23 572.59 m 552.75 572.59 l S
+q 0.0 0.309 0.615 rg BT 49.00 518.57 Td (COMPUTER SKILLS) Tj ET Q
+150.23 515.90 m 552.75 515.90 l S
 BT /F1 10.0 Tf ET
 0.0 G
-q 0.0 g BT 41.76 552.59 Td (OPERATING SYSTEM) Tj ET Q
-q 0.0 g BT 164.40 552.59 Td (Windows, Ubuntu, Arch Linux) Tj ET Q
-q 0.0 g BT 164.40 541.25 Td (good level) Tj ET Q
-q 0.0 g BT 66.78 518.57 Td (PROGRAMMING) Tj ET Q
-q 0.0 g BT 57.32 507.23 Td (LANGUAGE/CODE) Tj ET Q
-3.494 Tw
-q 0.0 g BT 164.40 518.57 Td (R, Python, C++,C, Java, SQL, Assembly x86, MATLAB, HTML, Javascript, CSS,) Tj ET Q
-0 Tw
-q 0.0 g BT 164.40 507.23 Td (jQuery, PHP, MPL, Apache Hadoop, Apache Spark, Apache Flink) Tj ET Q
-q 0.0 g BT 164.40 495.89 Td (good level) Tj ET Q
-q 0.0 g BT 33.44 473.22 Td (PROGRAMS/SOFTWAR) Tj ET Q
-q 0.0 g BT 137.89 461.88 Td (E) Tj ET Q
-q 0.0 g BT 164.40 473.22 Td (Matlab) Tj ET Q
+q 0.0 g BT 66.78 484.55 Td (PROGRAMMING) Tj ET Q
+q 0.0 g BT 57.32 473.22 Td (LANGUAGE/CODE) Tj ET Q
+q 0.0 g BT 164.40 484.55 Td (R, Python, C, C++, Java) Tj ET Q
+q 0.0 g BT 164.40 473.22 Td (Frontend+Backend: HTML, Javascript, CSS, jQuery, PHP) Tj ET Q
 q 0.0 g BT 164.40 461.88 Td (good level) Tj ET Q
-q 0.0 g BT 84.54 439.20 Td (DATABASES) Tj ET Q
-q 0.0 g BT 164.40 439.20 Td (MySQL, OracleSQL, PL/SQL, HBase) Tj ET Q
-q 0.0 g BT 164.40 427.86 Td (good level) Tj ET Q
-q 0.0 g BT 123.45 405.18 Td (CAD) Tj ET Q
-q 0.0 g BT 164.40 405.18 Td (Simulink) Tj ET Q
-q 0.0 g BT 164.40 393.85 Td (good level) Tj ET Q
-q 0.0 g BT 92.33 371.17 Td (GRAPHICS) Tj ET Q
-q 0.0 g BT 164.40 371.17 Td (Photoshop) Tj ET Q
-q 0.0 g BT 164.40 359.83 Td (basic level) Tj ET Q
-q 0.0 g BT 70.10 337.15 Td (SPREADSHEET) Tj ET Q
-q 0.0 g BT 164.40 337.15 Td (Excel) Tj ET Q
-q 0.0 g BT 164.40 325.81 Td (good level) Tj ET Q
-q 0.0 g BT 109.56 303.14 Td (OTHER) Tj ET Q
-q 0.0 g BT 164.40 303.14 Td (Production of Electronic Music through FL Studio) Tj ET Q
+q 0.0 g BT 33.44 439.20 Td (PROGRAMS/SOFTWAR) Tj ET Q
+q 0.0 g BT 137.89 427.86 Td (E) Tj ET Q
+q 0.0 g BT 164.40 439.20 Td (Engineering: Matlab/Simulink) Tj ET Q
+q 0.0 g BT 164.40 427.86 Td (Framework for Big Data: Apache Spark, Apache Hadoop) Tj ET Q
+q 0.0 g BT 164.40 416.52 Td (good level) Tj ET Q
+q 0.0 g BT 84.54 393.85 Td (DATABASES) Tj ET Q
+q 0.0 g BT 164.40 393.85 Td (MySQL, OracleSQL, PL/SQL, HBase) Tj ET Q
+q 0.0 g BT 164.40 382.51 Td (good level) Tj ET Q
+q 0.0 g BT 109.56 359.83 Td (OTHER) Tj ET Q
+q 0.0 g BT 164.40 359.83 Td (Production of Electronic Music through FL Studio) Tj ET Q
 0.0 0.309 0.615 RG
 BT /F2 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 89.00 274.79 Td (PERSONAL) Tj ET Q
-q 0.0 0.309 0.615 rg BT 32.88 263.45 Td (SKILLS/OTHER SKILLS) Tj ET Q
-150.23 260.78 m 552.75 260.78 l S
+q 0.0 0.309 0.615 rg BT 89.00 331.48 Td (PERSONAL) Tj ET Q
+q 0.0 0.309 0.615 rg BT 32.88 320.14 Td (SKILLS/OTHER SKILLS) Tj ET Q
+150.23 317.48 m 552.75 317.48 l S
 BT /F1 10.0 Tf ET
 0.0 G
-1.698 Tw
-q 0.0 g BT 164.40 240.77 Td (Able to face problems in an optimistic approach, in a top-down fashion and with the) Tj ET Q
-0.374 Tw
-q 0.0 g BT 164.40 229.44 Td (willing to do my best thanks to the dedication that I have implemented over the years of) Tj ET Q
-1.126 Tw
-q 0.0 g BT 164.40 218.10 Td (engineering studies. I'm able to work independently and also in team, thanks to many) Tj ET Q
-1.913 Tw
-q 0.0 g BT 164.40 206.76 Td (projects carried out during the study course, to the experience gained in a students) Tj ET Q
-0.548 Tw
-q 0.0 g BT 164.40 195.42 Td (team and to the group spirit acquired during the years in a basketball team playing in a) Tj ET Q
+2.682 Tw
+q 0.0 g BT 164.40 297.47 Td (Able to face problems both in a top-down or bottom-up fashion depending on the) Tj ET Q
+2.110 Tw
+q 0.0 g BT 164.40 286.13 Td (problem. I'm able to work independently and also in team, thanks to many projects) Tj ET Q
+0.472 Tw
+q 0.0 g BT 164.40 274.79 Td (carried out during the study course, to the experience gained in a students team and to) Tj ET Q
+4.950 Tw
+q 0.0 g BT 164.40 263.45 Td (the group spirit acquired during the years in a basketball team playing in a) Tj ET Q
 0.892 Tw
-q 0.0 g BT 164.40 184.08 Td (championship. I had experiences in communicating results of my works to clients or in) Tj ET Q
+q 0.0 g BT 164.40 252.11 Td (championship. I had experiences in communicating results of my works to clients or in) Tj ET Q
 2.920 Tw
-q 0.0 g BT 164.40 172.74 Td (classroom in front of other colleagues thanks to professional experiences and the) Tj ET Q
+q 0.0 g BT 164.40 240.77 Td (classroom in front of other colleagues thanks to professional experiences and the) Tj ET Q
 1.786 Tw
-q 0.0 g BT 164.40 161.40 Td (abroad studies. I enjoy taking part in decisional processes of a team and eventually) Tj ET Q
+q 0.0 g BT 164.40 229.44 Td (abroad studies. I enjoy taking part in decisional processes of a team and eventually) Tj ET Q
 0 Tw
-q 0.0 g BT 164.40 150.07 Td (guide them in my decisions.) Tj ET Q
+q 0.0 g BT 164.40 218.10 Td (guide them in my decisions.) Tj ET Q
 0.0 0.309 0.615 RG
 BT /F2 10.0 Tf ET
-q 0.0 0.309 0.615 rg BT 36.23 121.72 Td (OTHER INFORMATION) Tj ET Q
-150.23 119.05 m 552.75 119.05 l S
+q 0.0 0.309 0.615 rg BT 36.23 189.75 Td (OTHER INFORMATION) Tj ET Q
+150.23 187.08 m 552.75 187.08 l S
 BT /F1 10.0 Tf ET
 0.0 G
 BT /F1 10.0 Tf ET
-q 0.0 g BT 164.40 99.04 Td (Driving license) Tj ET Q
+q 0.0 g BT 164.40 167.07 Td (Driving license) Tj ET Q
 BT /F1 10.0 Tf ET
-q 0.0 g BT 164.40 82.03 Td (Available to travel on business in Italy, abroad) Tj ET Q
+q 0.0 g BT 164.40 150.07 Td (Available to travel on business in Italy, abroad) Tj ET Q
 BT /F1 10.0 Tf ET
-q 0.0 g BT 164.40 65.03 Td (Available to relocate in Italy, abroad) Tj ET Q
-0.0 G
-BT /F1 7.0 Tf ET
-q 0.0 g BT 31.18 47.50 Td (I declare that I read the privacy statement on the processing of my personal data and my rights within the meaning of the General Data Protection) Tj ET Q
-q 0.0 g BT 31.18 39.00 Td (Regulation \(EU Regulation 2016/679\) and Legislative decree no.196 of 30th June 2003 (Code regarding the protection of personal data): ) Tj ET Q
-BT /F1 7.0 Tf ET
-q 0.0 g BT 31.18 30.49 Td (https://didattica.polito.it/privacy/index_en.html) Tj ET 31.18 29.79 140.84 -.35 re f Q
-BT /F1 7.0 Tf ET
-q 0.0 g BT 172.03 30.49 Td (. I hereby give my consent to the processing of my personal data included in my CV.) Tj ET Q
-BT /F1 8.0 Tf ET
-q 0.0 g BT 523.16 42.95 Td (pag. 2/ 3) Tj ET Q
-BT /F1 10.0 Tf ET
-
-endstream
-endobj
-7 0 obj
-<</Type /Page
-/Parent 1 0 R
-/Resources 2 0 R
-/Annots [<</Type /Annot /Subtype /Link /Rect [31.18 36.09 172.02 29.09] /Border [0 0 0] /A <</S /URI /URI (https://didattica.polito.it/privacy/index_en.html)>>>>]
-/Contents 8 0 R>>
-endobj
-8 0 obj
-<</Length 1057>>
-stream
-2 J
-0.85 w
-BT /F1 10.0 Tf ET
-0.0 G
+q 0.0 g BT 164.40 133.06 Td (Available to relocate in Italy, abroad) Tj ET Q
 BT /F1 24.0 Tf ET
-q 0.862 0.039 0.039 rg BT 45.35 755.31 Td (*) Tj ET Q
+q 0.862 0.039 0.039 rg BT 45.35 100.51 Td (*) Tj ET Q
 BT /F1 10.0 Tf ET
 BT /F3 8.0 Tf ET
-q 0.0 g BT 59.52 765.78 Td (Fields marked with an * are certified by Politecnico di Torino, while the potential thesis description is added by the candidate.) Tj ET Q
+q 0.0 g BT 59.52 110.98 Td (Fields marked with an * are certified by Politecnico di Torino, while the potential thesis description is added by the candidate.) Tj ET Q
 BT /F1 10.0 Tf ET
 0.0 G
 BT /F1 7.0 Tf ET
@@ -295,45 +263,45 @@ q 0.0 g BT 31.18 30.49 Td (https://didattica.polito.it/privacy/index_en.html) Tj
 BT /F1 7.0 Tf ET
 q 0.0 g BT 172.03 30.49 Td (. I hereby give my consent to the processing of my personal data included in my CV.) Tj ET Q
 BT /F1 8.0 Tf ET
-q 0.0 g BT 523.16 42.95 Td (pag. 3/ 3) Tj ET Q
+q 0.0 g BT 523.16 42.95 Td (pag. 2/ 2) Tj ET Q
 BT /F1 10.0 Tf ET
 
 endstream
 endobj
 1 0 obj
 <</Type /Pages
-/Kids [3 0 R 5 0 R 7 0 R ]
-/Count 3
+/Kids [3 0 R 5 0 R ]
+/Count 2
 /MediaBox [0 0 595.28 841.89]
 >>
 endobj
-9 0 obj
+7 0 obj
 <</Type /Font
 /BaseFont /Helvetica
 /Subtype /Type1
 /Encoding /WinAnsiEncoding
 >>
 endobj
-10 0 obj
+8 0 obj
 <</Type /Font
 /BaseFont /Helvetica-Bold
 /Subtype /Type1
 /Encoding /WinAnsiEncoding
 >>
 endobj
-11 0 obj
+9 0 obj
 <</Type /Font
 /BaseFont /Helvetica-Oblique
 /Subtype /Type1
 /Encoding /WinAnsiEncoding
 >>
 endobj
-12 0 obj
+10 0 obj
 <</Type /XObject
 /Subtype /Image
 /Width 43
 /Height 43
-/ColorSpace [/Indexed /DeviceRGB 255 13 0 R]
+/ColorSpace [/Indexed /DeviceRGB 255 11 0 R]
 /BitsPerComponent 8
 /Filter /FlateDecode
 /DecodeParms <</Predictor 15 /Colors 1 /BitsPerComponent 8 /Columns 43>>
@@ -344,18 +312,18 @@ $¢<ÜèomİbS©„”u“œG»…Å~ëvdWÎ¼’ÌisÁº†çÙ(Ğˆõåcø6kj`<@™Xù±Tƒ“ˆ­ñ{öõFÄ’zF¸ ş –Õ"
 ,5b¸W)<qâ KÖëß>´ípİJ¡`3x°nj$×GF|£Ü¯Í8½Á ì’6æ 	ˆç²W¼Ğ&D¾©ŒÇK;¾óëúrƒ³fÄA`à;ÔkÔ!ÜÎ}…OBZ¥ºÙj^GLâh¾lW««Uy¹lËvÙZäÊĞLƒ<FËòêM{QÖ«rUYÍ<à¸Ùpí²$'us»pPÆÁîÛPë0KàxJ¾¤é)U­=U©Q%(çíŠyCêeCÆNçÆ¦Ì[ñ:äA„«ôsEZw„”Kì²ÿfIcõY“µË*Ïõ£ZÈm^çĞU*Ây<+B74Ø"âõØĞ\*ö7­µ/Méí	¶B™±^F4›Tc\:.`SäBS–Æ„fíÂ©|ï9š0æ"y½¥ÃÕßG?‰ßışv÷èûÛ??îé×÷rÄ’üºMß…²÷%Ôª´òM‹0Çõ;Î‚³'NTŠO[dUhîCõ^hVÊgE~AO'EÍ‰®‡¶Šı†NÄœSå®\u15x>Ôdä }çkZ.j#%`:7˜Û¬ëá/a¤¯¨Sõe°ìÃˆômèãCõ«©EFQ!×¦ß†YÜéÜ¯h×84ˆ`V"|$Ñc0%ìÌ},Ù“O	(Àq’IcÉ	ûga°ïÙ%²¯˜Ö=¶íæ8 »™ÚØãn¢ÇïŞlùõ$zH
 endstream
 endobj
-13 0 obj
+11 0 obj
 <</Length 768>>
 stream
                                                                                                                      U  ª  ÿ     U  ª  ÿ   @ U@ ª@ ÿ@  ` U` ª` ÿ`  € U€ ª€ ÿ€  Ÿ UŸ ªŸ ÿŸ  ¿ U¿ ª¿ ÿ¿  ß Uß ªß ÿß  ÿ Uÿ ªÿ ÿÿ   3U 3ª 3ÿ 3  3U 3ª 3ÿ 3 @3U@3ª@3ÿ@3 `3U`3ª`3ÿ`3 €3U€3ª€3ÿ€3 Ÿ3UŸ3ªŸ3ÿŸ3 ¿3U¿3ª¿3ÿ¿3 ß3Uß3ªß3ÿß3 ÿ3Uÿ3ªÿ3ÿÿ3  fU fª fÿ f  fU fª fÿ f @fU@fª@fÿ@f `fU`fª`fÿ`f €fU€fª€fÿ€f ŸfUŸfªŸfÿŸf ¿fU¿fª¿fÿ¿f ßfUßfªßfÿßf ÿfUÿfªÿfÿÿf  ™U ™ª ™ÿ ™  ™U ™ª ™ÿ ™ @™U@™ª@™ÿ@™ `™U`™ª`™ÿ`™ €™U€™ª€™ÿ€™ Ÿ™UŸ™ªŸ™ÿŸ™ ¿™U¿™ª¿™ÿ¿™ ß™Uß™ªß™ÿß™ ÿ™Uÿ™ªÿ™ÿÿ™  ÌU Ìª Ìÿ Ì  ÌU Ìª Ìÿ Ì @ÌU@Ìª@Ìÿ@Ì `ÌU`Ìª`Ìÿ`Ì €ÌU€Ìª€Ìÿ€Ì ŸÌUŸÌªŸÌÿŸÌ ¿ÌU¿Ìª¿Ìÿ¿Ì ßÌUßÌªßÌÿßÌ ÿÌUÿÌªÿÌÿÿÌ  ÿU ÿª ÿÿ ÿ  ÿU ÿª ÿÿ ÿ @ÿU@ÿª@ÿÿ@ÿ `ÿU`ÿª`ÿÿ`ÿ €ÿU€ÿª€ÿÿ€ÿ ŸÿUŸÿªŸÿÿŸÿ ¿ÿU¿ÿª¿ÿÿ¿ÿ ßÿUßÿªßÿÿßÿ ÿÿUÿÿªÿÿÿÿÿ      
 endstream
 endobj
-14 0 obj
+12 0 obj
 <</Type /XObject
 /Subtype /Image
 /Width 42
 /Height 43
-/ColorSpace [/Indexed /DeviceRGB 255 15 0 R]
+/ColorSpace [/Indexed /DeviceRGB 255 13 0 R]
 /BitsPerComponent 8
 /Filter /FlateDecode
 /DecodeParms <</Predictor 15 /Colors 1 /BitsPerComponent 8 /Columns 42>>
@@ -368,18 +336,18 @@ x^-•½E…ouWIlÀ¯ŒÎ˜®a»¥`ı !KˆÈ!	Oáˆ Kø?¡“5šw7;!d	A€VlUoñZ4==ÕÕ÷çÜsn
 r+Ÿ|Àªù–}¯ÂÙ!WHÜ]—KJ Ì9¬»º(œš¾à¨‡7›ßÓÏï¼ÎW÷Úôçõşİ_Ş«³½Y^ßŒiÉ¿İÓŒG-…Ïmˆiñ+š8….¯jg,Àh×½©“^èŸ §À\ÔÔÙİ4F*Gb¿ªsvtG—P ¦9œPU.K´‚¨=›ÏÁLáj2ì[ädV*)Şh!6Ü÷Ÿ7î›ç-Âu£úÌB³Ø`mÆiÙ}mÿjş«
 endstream
 endobj
-15 0 obj
+13 0 obj
 <</Length 768>>
 stream
                                                                                                                      U  ª  ÿ     U  ª  ÿ   @ U@ ª@ ÿ@  ` U` ª` ÿ`  € U€ ª€ ÿ€  Ÿ UŸ ªŸ ÿŸ  ¿ U¿ ª¿ ÿ¿  ß Uß ªß ÿß  ÿ Uÿ ªÿ ÿÿ   3U 3ª 3ÿ 3  3U 3ª 3ÿ 3 @3U@3ª@3ÿ@3 `3U`3ª`3ÿ`3 €3U€3ª€3ÿ€3 Ÿ3UŸ3ªŸ3ÿŸ3 ¿3U¿3ª¿3ÿ¿3 ß3Uß3ªß3ÿß3 ÿ3Uÿ3ªÿ3ÿÿ3  fU fª fÿ f  fU fª fÿ f @fU@fª@fÿ@f `fU`fª`fÿ`f €fU€fª€fÿ€f ŸfUŸfªŸfÿŸf ¿fU¿fª¿fÿ¿f ßfUßfªßfÿßf ÿfUÿfªÿfÿÿf  ™U ™ª ™ÿ ™  ™U ™ª ™ÿ ™ @™U@™ª@™ÿ@™ `™U`™ª`™ÿ`™ €™U€™ª€™ÿ€™ Ÿ™UŸ™ªŸ™ÿŸ™ ¿™U¿™ª¿™ÿ¿™ ß™Uß™ªß™ÿß™ ÿ™Uÿ™ªÿ™ÿÿ™  ÌU Ìª Ìÿ Ì  ÌU Ìª Ìÿ Ì @ÌU@Ìª@Ìÿ@Ì `ÌU`Ìª`Ìÿ`Ì €ÌU€Ìª€Ìÿ€Ì ŸÌUŸÌªŸÌÿŸÌ ¿ÌU¿Ìª¿Ìÿ¿Ì ßÌUßÌªßÌÿßÌ ÿÌUÿÌªÿÌÿÿÌ  ÿU ÿª ÿÿ ÿ  ÿU ÿª ÿÿ ÿ @ÿU@ÿª@ÿÿ@ÿ `ÿU`ÿª`ÿÿ`ÿ €ÿU€ÿª€ÿÿ€ÿ ŸÿUŸÿªŸÿÿŸÿ ¿ÿU¿ÿª¿ÿÿ¿ÿ ßÿUßÿªßÿÿßÿ ÿÿUÿÿªÿÿÿÿÿ      
 endstream
 endobj
-16 0 obj
+14 0 obj
 <</Type /XObject
 /Subtype /Image
 /Width 49
 /Height 56
-/ColorSpace [/Indexed /DeviceRGB 255 17 0 R]
+/ColorSpace [/Indexed /DeviceRGB 255 15 0 R]
 /BitsPerComponent 8
 /Filter /FlateDecode
 /DecodeParms <</Predictor 15 /Colors 1 /BitsPerComponent 8 /Columns 49>>
@@ -393,18 +361,18 @@ x^í•Ïn7Æ‡KPr1Šô_…lH‚¥Bj}…ŞZÔ‡ú2íãµôM$  v•¯9®Q’fCÙ©ô`ß
 Y0®Oêa\'ìÃ¼¼ao3µú«¦ï]½¾,|—£Î%Æ`F~¡°¹)=úkVl²êì©[K‘d6M{\íA5dûÔ½9~–¡Q„±ç×Yëì3<öE¹˜÷N@uªVÂÕ÷sÎµ%ÇŠ"TÚ}©–(­ˆ¾ÕÄæ½.öGÚû\ÏÅ-.kŠ”÷œAÔ‰JÏd]4j@„Åş»—JsmuÛÃ\•Hk¸IÍêUp±22}fô¬Ëˆo¢»±ìdÅM§«µ'yIo>İyû“û’€¿¼ø¨úXô$ĞcÊ¥*Wºñ¢ÇFU½ÛÛüös#ŸÉ§•L ÷gèkSr;Plá÷·dw1å.×®6íNBò®İ’Mù¬ùjdCÔÃãƒ6â,c¬ç¯|6à ‘¾)»K—”‹ér1@¯|9ï§ÏûÎıèÓÿğ­}·òA¼İGßÙüw-ş~÷‘´
 endstream
 endobj
-17 0 obj
+15 0 obj
 <</Length 768>>
 stream
                                                                                                                      U  ª  ÿ     U  ª  ÿ   @ U@ ª@ ÿ@  ` U` ª` ÿ`  € U€ ª€ ÿ€  Ÿ UŸ ªŸ ÿŸ  ¿ U¿ ª¿ ÿ¿  ß Uß ªß ÿß  ÿ Uÿ ªÿ ÿÿ   3U 3ª 3ÿ 3  3U 3ª 3ÿ 3 @3U@3ª@3ÿ@3 `3U`3ª`3ÿ`3 €3U€3ª€3ÿ€3 Ÿ3UŸ3ªŸ3ÿŸ3 ¿3U¿3ª¿3ÿ¿3 ß3Uß3ªß3ÿß3 ÿ3Uÿ3ªÿ3ÿÿ3  fU fª fÿ f  fU fª fÿ f @fU@fª@fÿ@f `fU`fª`fÿ`f €fU€fª€fÿ€f ŸfUŸfªŸfÿŸf ¿fU¿fª¿fÿ¿f ßfUßfªßfÿßf ÿfUÿfªÿfÿÿf  ™U ™ª ™ÿ ™  ™U ™ª ™ÿ ™ @™U@™ª@™ÿ@™ `™U`™ª`™ÿ`™ €™U€™ª€™ÿ€™ Ÿ™UŸ™ªŸ™ÿŸ™ ¿™U¿™ª¿™ÿ¿™ ß™Uß™ªß™ÿß™ ÿ™Uÿ™ªÿ™ÿÿ™  ÌU Ìª Ìÿ Ì  ÌU Ìª Ìÿ Ì @ÌU@Ìª@Ìÿ@Ì `ÌU`Ìª`Ìÿ`Ì €ÌU€Ìª€Ìÿ€Ì ŸÌUŸÌªŸÌÿŸÌ ¿ÌU¿Ìª¿Ìÿ¿Ì ßÌUßÌªßÌÿßÌ ÿÌUÿÌªÿÌÿÿÌ  ÿU ÿª ÿÿ ÿ  ÿU ÿª ÿÿ ÿ @ÿU@ÿª@ÿÿ@ÿ `ÿU`ÿª`ÿÿ`ÿ €ÿU€ÿª€ÿÿ€ÿ ŸÿUŸÿªŸÿÿŸÿ ¿ÿU¿ÿª¿ÿÿ¿ÿ ßÿUßÿªßÿÿßÿ ÿÿUÿÿªÿÿÿÿÿ      
 endstream
 endobj
-18 0 obj
+16 0 obj
 <</Type /XObject
 /Subtype /Image
 /Width 38
 /Height 44
-/ColorSpace [/Indexed /DeviceRGB 255 19 0 R]
+/ColorSpace [/Indexed /DeviceRGB 255 17 0 R]
 /BitsPerComponent 8
 /Filter /FlateDecode
 /DecodeParms <</Predictor 15 /Colors 1 /BitsPerComponent 8 /Columns 38>>
@@ -414,18 +382,18 @@ x^Uíjã0Ü­$è[¤¥6q 	¤rĞé+\ŞƒšpvHLÒ§ÈQIìÍJ¶ã4Îäi<»3;r8Òÿ\w· ïo×ìxIBMçvÊuñL
 û zİ£=4›&i½Ca²“`(·-µW,Íz	ØèBÙjì¦‹ó8ZòU²$Å`qkc¨<u0ôÊVÂ”¸v#{#*Í™sç:Ot`r]oZ¢2*”)ú-¨tóUby?K1ÉÃZ¡5jıü:+êïÜf0)«Èyã}åí&á÷Ã}hJ"Ì¸-2 ³ÉëJa€³³õ*{¨ÂÒ"G3Ã÷h‚RŒ¦ÎÃ¼¥Kw$^G9èÅˆ¼eè0±ŠfÙå¼Ï›=€®C‹¦\Áğ>Î;{¯œÚŒÊøVvÖ	zSÉÌğ Tˆ8~‘ºhÒ.TÅºÖ²EBpãô£ŸIVŠ(@h‰á4dc|ÅıpP!İN‚‹¢-š;v]%º"õl¡7Çrèìr Sw8&zJó~\ôıSÈN‹© ˆ<y;"sÂ­RŠá™Çv5"»†q…®ö„IcFıE“#J×W ˜”»~Lc{“#ªbî|ŠÊq=~^)UÜ¢±:›ñÍ7=Ö¼ŞÁİ`ÇfŒay^xÍ[ÌébF×u¤T©;åi—ƒ]×—~gGó½ä°,‰ñúºú_H[²ÈGóêºı—á…ÆDC8„’è9ßR}
 endstream
 endobj
-19 0 obj
+17 0 obj
 <</Length 768>>
 stream
                                                                                                                      U  ª  ÿ     U  ª  ÿ   @ U@ ª@ ÿ@  ` U` ª` ÿ`  € U€ ª€ ÿ€  Ÿ UŸ ªŸ ÿŸ  ¿ U¿ ª¿ ÿ¿  ß Uß ªß ÿß  ÿ Uÿ ªÿ ÿÿ   3U 3ª 3ÿ 3  3U 3ª 3ÿ 3 @3U@3ª@3ÿ@3 `3U`3ª`3ÿ`3 €3U€3ª€3ÿ€3 Ÿ3UŸ3ªŸ3ÿŸ3 ¿3U¿3ª¿3ÿ¿3 ß3Uß3ªß3ÿß3 ÿ3Uÿ3ªÿ3ÿÿ3  fU fª fÿ f  fU fª fÿ f @fU@fª@fÿ@f `fU`fª`fÿ`f €fU€fª€fÿ€f ŸfUŸfªŸfÿŸf ¿fU¿fª¿fÿ¿f ßfUßfªßfÿßf ÿfUÿfªÿfÿÿf  ™U ™ª ™ÿ ™  ™U ™ª ™ÿ ™ @™U@™ª@™ÿ@™ `™U`™ª`™ÿ`™ €™U€™ª€™ÿ€™ Ÿ™UŸ™ªŸ™ÿŸ™ ¿™U¿™ª¿™ÿ¿™ ß™Uß™ªß™ÿß™ ÿ™Uÿ™ªÿ™ÿÿ™  ÌU Ìª Ìÿ Ì  ÌU Ìª Ìÿ Ì @ÌU@Ìª@Ìÿ@Ì `ÌU`Ìª`Ìÿ`Ì €ÌU€Ìª€Ìÿ€Ì ŸÌUŸÌªŸÌÿŸÌ ¿ÌU¿Ìª¿Ìÿ¿Ì ßÌUßÌªßÌÿßÌ ÿÌUÿÌªÿÌÿÿÌ  ÿU ÿª ÿÿ ÿ  ÿU ÿª ÿÿ ÿ @ÿU@ÿª@ÿÿ@ÿ `ÿU`ÿª`ÿÿ`ÿ €ÿU€ÿª€ÿÿ€ÿ ŸÿUŸÿªŸÿÿŸÿ ¿ÿU¿ÿª¿ÿÿ¿ÿ ßÿUßÿªßÿÿßÿ ÿÿUÿÿªÿÿÿÿÿ      
 endstream
 endobj
-20 0 obj
+18 0 obj
 <</Type /XObject
 /Subtype /Image
 /Width 45
 /Height 46
-/ColorSpace [/Indexed /DeviceRGB 255 21 0 R]
+/ColorSpace [/Indexed /DeviceRGB 255 19 0 R]
 /BitsPerComponent 8
 /Filter /FlateDecode
 /DecodeParms <</Predictor 15 /Colors 1 /BitsPerComponent 8 /Columns 45>>
@@ -438,18 +406,18 @@ x^•UÏoE~Ï3-J!¤Ê©‰¼«İ•âG‚+w$rHPúÏğß´>€ø*ZN¨".µÕ]Ëkâ¸"qj”™Éã{³Nš˜S§Iãıæ›
 õ–ÒúÒ—¦4ü¯£+÷¯ÁWQ¦“nÿ{[;dI7 ®©á/>¸ãß®ÃAMä§ÛÔVsŞÕ/‹›k­œÙíÑÂGYs„6Ö½…¾ñ}yµÏì*7@Ãß¨…ÿ Ù?ê
 endstream
 endobj
-21 0 obj
+19 0 obj
 <</Length 768>>
 stream
                                                                                                                      U  ª  ÿ     U  ª  ÿ   @ U@ ª@ ÿ@  ` U` ª` ÿ`  € U€ ª€ ÿ€  Ÿ UŸ ªŸ ÿŸ  ¿ U¿ ª¿ ÿ¿  ß Uß ªß ÿß  ÿ Uÿ ªÿ ÿÿ   3U 3ª 3ÿ 3  3U 3ª 3ÿ 3 @3U@3ª@3ÿ@3 `3U`3ª`3ÿ`3 €3U€3ª€3ÿ€3 Ÿ3UŸ3ªŸ3ÿŸ3 ¿3U¿3ª¿3ÿ¿3 ß3Uß3ªß3ÿß3 ÿ3Uÿ3ªÿ3ÿÿ3  fU fª fÿ f  fU fª fÿ f @fU@fª@fÿ@f `fU`fª`fÿ`f €fU€fª€fÿ€f ŸfUŸfªŸfÿŸf ¿fU¿fª¿fÿ¿f ßfUßfªßfÿßf ÿfUÿfªÿfÿÿf  ™U ™ª ™ÿ ™  ™U ™ª ™ÿ ™ @™U@™ª@™ÿ@™ `™U`™ª`™ÿ`™ €™U€™ª€™ÿ€™ Ÿ™UŸ™ªŸ™ÿŸ™ ¿™U¿™ª¿™ÿ¿™ ß™Uß™ªß™ÿß™ ÿ™Uÿ™ªÿ™ÿÿ™  ÌU Ìª Ìÿ Ì  ÌU Ìª Ìÿ Ì @ÌU@Ìª@Ìÿ@Ì `ÌU`Ìª`Ìÿ`Ì €ÌU€Ìª€Ìÿ€Ì ŸÌUŸÌªŸÌÿŸÌ ¿ÌU¿Ìª¿Ìÿ¿Ì ßÌUßÌªßÌÿßÌ ÿÌUÿÌªÿÌÿÿÌ  ÿU ÿª ÿÿ ÿ  ÿU ÿª ÿÿ ÿ @ÿU@ÿª@ÿÿ@ÿ `ÿU`ÿª`ÿÿ`ÿ €ÿU€ÿª€ÿÿ€ÿ ŸÿUŸÿªŸÿÿŸÿ ¿ÿU¿ÿª¿ÿÿ¿ÿ ßÿUßÿªßÿÿßÿ ÿÿUÿÿªÿÿÿÿÿ      
 endstream
 endobj
-22 0 obj
+20 0 obj
 <</Type /XObject
 /Subtype /Image
 /Width 500
 /Height 522
-/ColorSpace [/Indexed /DeviceRGB 255 23 0 R]
+/ColorSpace [/Indexed /DeviceRGB 255 21 0 R]
 /BitsPerComponent 8
 /Filter /FlateDecode
 /DecodeParms <</Predictor 15 /Colors 1 /BitsPerComponent 8 /Columns 500>>
@@ -986,7 +954,7 @@ NXk½¾ÓÂ3ªªÌ	ŸÍP¿ˆß²'o´LXè¿0ÿÅ9æõç«ÇGÏ/ã›Jk–Ÿ|X[†+óëëÅQÿ¿›‰o³@XÎF@TK¿3ª¤êø
 áÎT¯¸º>ıµª`ŞpœøÄìóKSôæğj³$ĞåFÍÈH£§?İŸÅğ¹'Ç±»Ûfá4¯œíìo¼¥Šêy!.Ç;Eş¢iÁÏTv,ªEZ7U»ñjçƒ¡.Te$¨Jg‡\UÀô9Ïî´MÇ2ö%QÑ|odš'¿pB~ø@ñ±¤óWÇwo¦Õc;¥şùF¨tæ÷ÄæñÚ>·O”xäZpkÛZB´öÕtåäQÂZŞßÁIØ)Yã„r»GMÅßG»„IãĞªsXzÏtp”^q¾¹âéöŒ]z{„Ãvöp/LÂ=%à”¨£ÅÛpPÕiZõQ„ˆíçÍ0e;é#à6„('æô9¾ZÄ#†ã[ş¶>ıd8µÀş™"NÙ^eæ=êfíı^N[[²Ó®09‚Ù¹Å¼ÏÛğ«£ÊæëÜµ°aFN‚Ÿ"ŞÍKÜ»T7è~ÏN§&0¢\¥Şı¬øÀdâ3ôÈ?®Ë‡deå¦:×¹·Ùªe¶Ôx”AåGMŞ·¹×i¥ø¦ãE±õÜËí=.o¶»³”øÌé©Y®!)§ú!:óšŠ‡&èî&ğ¿ü÷"¡7#lê¥`€C0ù²|ûäGñMäP?¼¼-¼ ÖˆĞ:7w§.¶AˆÔqêy8Sèºo.®º¿¶“Ú½ÒŞæM•®a2wã&ÍE\t–S™*ñ•h»Â;fËc-H-\ì^&O˜âè×F¡Q1Yéî¯î³½ì›»”V}"ìq—“«yãY÷fö„;Úş$FÓî l@iÚœ'ÒœC­±õ¦œ™#U¾8mUòàLá^q Pk9fp¢Îô@,SqH•'‹qãú³LÑ9QãZß¼=/ŞvøG\´«%'ÕÏyCÆöj0”uÏ•Á3xxöYI7b‚ã((›~/Å˜Â§3jqøÙù~ÒS±"rCeè°B<—eê_½%HïVÚKTÍGkå„ë]6¦kî X®<¶z-.	›6‚+‹Î>5kwSƒP1`ÁWLœbÕ­AÅªWËZH^– ÎÜ%¯ÄÊæO’öÿÿúuıO'f¾DÇ*fM?]3{#’EÛ+–+~ ·lã—üÿ •¢v
 endstream
 endobj
-23 0 obj
+21 0 obj
 <</Length 768>>
 stream
                                                                                                                      U  ª  ÿ     U  ª  ÿ   @ U@ ª@ ÿ@  ` U` ª` ÿ`  € U€ ª€ ÿ€  Ÿ UŸ ªŸ ÿŸ  ¿ U¿ ª¿ ÿ¿  ß Uß ªß ÿß  ÿ Uÿ ªÿ ÿÿ   3U 3ª 3ÿ 3  3U 3ª 3ÿ 3 @3U@3ª@3ÿ@3 `3U`3ª`3ÿ`3 €3U€3ª€3ÿ€3 Ÿ3UŸ3ªŸ3ÿŸ3 ¿3U¿3ª¿3ÿ¿3 ß3Uß3ªß3ÿß3 ÿ3Uÿ3ªÿ3ÿÿ3  fU fª fÿ f  fU fª fÿ f @fU@fª@fÿ@f `fU`fª`fÿ`f €fU€fª€fÿ€f ŸfUŸfªŸfÿŸf ¿fU¿fª¿fÿ¿f ßfUßfªßfÿßf ÿfUÿfªÿfÿÿf  ™U ™ª ™ÿ ™  ™U ™ª ™ÿ ™ @™U@™ª@™ÿ@™ `™U`™ª`™ÿ`™ €™U€™ª€™ÿ€™ Ÿ™UŸ™ªŸ™ÿŸ™ ¿™U¿™ª¿™ÿ¿™ ß™Uß™ªß™ÿß™ ÿ™Uÿ™ªÿ™ÿÿ™  ÌU Ìª Ìÿ Ì  ÌU Ìª Ìÿ Ì @ÌU@Ìª@Ìÿ@Ì `ÌU`Ìª`Ìÿ`Ì €ÌU€Ìª€Ìÿ€Ì ŸÌUŸÌªŸÌÿŸÌ ¿ÌU¿Ìª¿Ìÿ¿Ì ßÌUßÌªßÌÿßÌ ÿÌUÿÌªÿÌÿÿÌ  ÿU ÿª ÿÿ ÿ  ÿU ÿª ÿÿ ÿ @ÿU@ÿª@ÿÿ@ÿ `ÿU`ÿª`ÿÿ`ÿ €ÿU€ÿª€ÿÿ€ÿ ŸÿUŸÿªŸÿÿŸÿ ¿ÿU¿ÿª¿ÿÿ¿ÿ ßÿUßÿªßÿÿßÿ ÿÿUÿÿªÿÿÿÿÿ      
@@ -996,29 +964,29 @@ endobj
 <<
 /ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
 /Font <<
-/F1 9 0 R
-/F2 10 0 R
-/F3 11 0 R
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
 >>
 /XObject <<
-/I3 12 0 R
-/I6 14 0 R
-/I4 16 0 R
-/I2 18 0 R
-/I5 20 0 R
-/I1 22 0 R
+/I3 10 0 R
+/I6 12 0 R
+/I4 14 0 R
+/I2 16 0 R
+/I5 18 0 R
+/I1 20 0 R
 >>
 >>
 endobj
-24 0 obj
+22 0 obj
 <<
 /Producer (PL_FPDF 0.9.4 portage pour Laclasse.com par P.G. Levallois de la version 1.53 de PHP/FPDF d'Olivier Plathey.)
 /Title (Curriculum Vitae Manuel SCURTI)
 /Author (Politecnico di Torino - Career Service Office)
-/CreationDate (D:20191028105200)
+/CreationDate (D:20200109114959)
 >>
 endobj
-25 0 obj
+23 0 obj
 <<
 /Type /Catalog
 /Pages 1 0 R
@@ -1027,39 +995,37 @@ endobj
 >>
 endobj
 xref
-0 26
+0 24
 0000000000 65535 f 
-0000013451 00000 n 
-0000169508 00000 n 
+0000012237 00000 n 
+0000168286 00000 n 
 0000000009 00000 n 
 0000000250 00000 n 
-0000005522 00000 n 
-0000005945 00000 n 
-0000012103 00000 n 
-0000012344 00000 n 
-0000013550 00000 n 
-0000013646 00000 n 
-0000013748 00000 n 
-0000013853 00000 n 
-0000014897 00000 n 
-0000015715 00000 n 
-0000017072 00000 n 
-0000017890 00000 n 
-0000019268 00000 n 
-0000020086 00000 n 
-0000021094 00000 n 
-0000021912 00000 n 
-0000023300 00000 n 
-0000024118 00000 n 
-0000168690 00000 n 
-0000169700 00000 n 
-0000169972 00000 n 
+0000005641 00000 n 
+0000006064 00000 n 
+0000012330 00000 n 
+0000012426 00000 n 
+0000012527 00000 n 
+0000012631 00000 n 
+0000013675 00000 n 
+0000014493 00000 n 
+0000015850 00000 n 
+0000016668 00000 n 
+0000018046 00000 n 
+0000018864 00000 n 
+0000019872 00000 n 
+0000020690 00000 n 
+0000022078 00000 n 
+0000022896 00000 n 
+0000167468 00000 n 
+0000168476 00000 n 
+0000168748 00000 n 
 trailer
 <<
-/Size 26
-/Root 25 0 R
-/Info 24 0 R
+/Size 24
+/Root 23 0 R
+/Info 22 0 R
 >>
 startxref
-170076
+168852
 %%EOF
