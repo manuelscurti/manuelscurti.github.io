@@ -11,8 +11,8 @@ html,body
 body
 {
 	background-color: white;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 36px;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+	font-size: 2.5em;
 	color: white;
 	word-wrap:break-word; /* break word and go to next line */
 }
@@ -235,6 +235,14 @@ div#me-left {
   }
 }
 
+.current-activity {
+  font-style: italic;
+}
+
+.short-bio {
+  padding-top: 20px;
+  font-style: normal;
+}
 
 .skills-title {
 	font-weight: bold;
