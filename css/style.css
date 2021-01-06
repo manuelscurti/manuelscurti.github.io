@@ -11,8 +11,8 @@ html,body
 body
 {
 	background-color: white;
-	font-family: Calibri, Arial, Helvetica, sans-serif;
-	font-size: 2.5em;
+	font-family: DejaVu Sans Mono, Arial, Helvetica, sans-serif;
+	font-size: 2.3em;
 	color: white;
 	word-wrap:break-word; /* break word and go to next line */
 }
