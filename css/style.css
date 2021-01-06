@@ -148,7 +148,6 @@ article.odd {
 
 div.page-content {
 	width: 80%;
-
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -162,9 +161,16 @@ p.section-title {
 	padding-bottom: 10px;
 }
 
+p.section-description {
+  font-size: 0.5em;
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
 p.section-content {
 	font-size: 0.5em;
-	padding-top: 10px;
+  padding-top: 10px;
 	padding-bottom: 5px;
 }
 
@@ -183,7 +189,8 @@ div#me-right {
 div#me-left {
 	font-size: 0.5em;
 	width:80%;
-	float:left;
+  float:left;
+  padding-left: 5px;
   padding-right: 5px;
   padding-bottom: 5px;
 }
@@ -210,7 +217,7 @@ div#me-left {
 /* Create three equal columns that floats next to each other */
 .skills-column {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 10px;
 }
 
@@ -258,11 +265,29 @@ div#me-left {
 	font-style: italic;
 }
 
+.learning-items {
+  padding-top: 5px;
+  font-size: 0.45em;
+}
+
+li {
+  padding: 2px;
+}
+
+ul.learning-items-list {
+  margin-top: 10px;
+  list-style-type: square;
+}
+
+.learning-category {
+  color:#b14d57;
+  font-style: italic;
+}
 
 .contact-column {
 	float: left;
 	text-align: center;
-  	width: 50%;/*33.33%;*/
+  	width: 33.33%;
   	padding: 10px;
 }
 
