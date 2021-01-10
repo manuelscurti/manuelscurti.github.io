@@ -12,6 +12,8 @@ This article will highlight the main parts of my thesis, avoiding to spend too m
 
 <center><img src="{{ site.url }}/assets/images/thesis/midas-team.jpeg" style="zoom:30%;" /><br><em>The MiDaS team in June 2019</em></center>
 
+## [UPDATE JULY 2020] This work has been published as a conference paper for the **33rd IEEE International Symposium on Computer-Based Medical Systems**!! - <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9183213">link</a>
+
 ## Objective
 
 This project takes place under the Lung Cancer pilot of an European Project. It aims at building a framework to process clinical data to enable a data-driven decisional process for clinicians willing to optimize the management of lung cancer patients. This framework will enable the measurement of the following Key Performance Indicators:
