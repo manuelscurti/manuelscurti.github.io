@@ -9,7 +9,7 @@ The idea behind this personal homepage is to share my current learning progresse
 
 # Alternative Me - Smize Music
 
-<center><img src="{{site.url}}/assets/images/about/20121222cantinaaccademia-pescara.jpg" style="zoom: 67%"><br><em>Playing at Cantina[ah]demia in Pescara - 22/12/2012</em></center>
+<center><img src="{{site.url}}/assets/images/about/20121222cantinaaccademia-pescara.jpg" style="zoom: 50%"><br><em>Playing at Cantina[ah]demia in Pescara - 22/12/2012</em></center>
 
 Back in 2012, I used to be a DJ and a electronic music producer. In those years, EDM (Electronic Dance Music) was booming all over the world, with artists like Avicii, Swedish House Mafia, Nicky Romero, Hardwell, Afrojack (and many more of that genre) being on top of Beatport and DJ Mag world rankings. This for sure influenced my musical tastes and styles, as you can hear from my Soundcloud profile, where I put most of my productions and experimentations. After 2 years, I decided to stop this hobby to focus on the university, but who knows if there will be a come back? Could be funny to see generative models for music production 🤣. 
 
