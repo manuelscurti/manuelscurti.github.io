@@ -1,5 +1,5 @@
 url: https://manuelscurti.github.io
-title: Manuel Scurti's Blog
+title: Manuel Scurti's Thoughts
 author: manuelscurti
 email: manuel.scurti.dev@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -17,7 +17,7 @@ plainwhite:
       url: "/about"
 
   name: Manuel Scurti
-  tagline: Deep Learning Researcher @ Links Foundation
+  tagline: Data Engineer @ Agile Lab
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
