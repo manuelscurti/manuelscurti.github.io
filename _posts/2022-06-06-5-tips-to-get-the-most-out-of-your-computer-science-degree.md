@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "5 tips I wish they had suggested to me when starting my computer science degree"
+title:  "5 Tips to Get The Most Out Of Your Computer Science Degree"
 date:   2022-06-06 17:00:00 +0000
 categories: [Computer Science, University, Career Development]
 ---
 
-Every experience matters in everyone’s life. There is no “one size fits all” kind of magical path, or way to do things the “correct” way. However, today, I would like to talk about my university experience and try to point out 5 tips I wish they had suggested to me back when starting university. Of course, this blog post will be tailored to my own personal experience. I will suggest things that I believe are valid for the IT industry, but I am sure they can be applied to other industries too. 
+Every experience matters in everyone’s life. There is no “one size fits all” kind of magical path, or way to do things the “correct” way. However, today, I would like to talk about 5 tips I wish they had suggested to me back when starting university. Of course, this blog post will be tailored to my own personal experience. I will suggest things that I believe are valid for the IT industry, but I am sure they can be applied to other industries too. 
 
 Back in 2014, fresh out of high school, I had clear ideas about my future career: “I wanna be a Software Engineer” (sounds like the answer to Algoexpert’s spot: “So you wanna be a software engineer at Google?”). 
 
