@@ -24,8 +24,13 @@ function setCookie(name, value, days) {
 function deleteCookie(name) { setCookie(name, '', -1); }
 
 
-const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+// lookup user preferences for dark mode from system settings
+// const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+// let's instead force dark mode as default mode
+const userPrefersDark = true;
 var theme = getCookie('theme');
+
 if ( (theme === null && userPrefersDark) || theme === 'dark') {
     var checkDarkDone = false;
     function checkDark() {
