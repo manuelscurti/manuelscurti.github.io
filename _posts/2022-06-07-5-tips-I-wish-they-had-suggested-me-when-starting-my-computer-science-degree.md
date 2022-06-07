@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 tips I wish they had suggested to me when starting my Computer Science degree"
+title:  "5 tips I wish they had suggested to me when starting my computer science degree"
 date:   2022-06-07 17:00:00 +0000
 categories: [Computer Science, University, Career Development]
 ---
