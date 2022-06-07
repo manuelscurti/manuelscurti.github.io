@@ -19,6 +19,15 @@ layout: default
   <div class="post">
     {{ content }}
   </div>
+  <script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        label="💬"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+  </script>
+  <noscript>Please enable JavaScript to view comments under this blog post.</noscript>
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>
   <script>
