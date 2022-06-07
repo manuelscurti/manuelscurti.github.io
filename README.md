@@ -6,6 +6,13 @@ You can visit it here: https://manuelscurti.github.io
 
 _have fun_ 😎
 
+## Local development
+
+After cloning the repo execute:
+
+    $ bundle install 
+    $ bundle exec jekyll serve
+
 ## Theme
 
 This blog uses [`plainwhite` theme](https://github.com/samarsault/plainwhite-jekyll). 
@@ -13,10 +20,8 @@ I think it's great for its simplicity and minimalism. The only thing I modified 
 
 **A reminder to myself of the future**: in case you forgot how to tweak configuration parameters and stuff, check the README.md inside that repo.
 
-## Local development
+## Comments
 
-After cloning the repo execute:
-
-    $ bundle install 
-    $ bundle exec jekyll serve
+Commenting system is based on [utteranc.es](https://utteranc.es/). 
+This system is based on GitHub issues, so make sure this repository stay public to work correctly.
    
