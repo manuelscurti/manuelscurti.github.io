@@ -18,9 +18,9 @@ After cloning the repo execute:
 This blog uses [`plainwhite` theme](https://github.com/samarsault/plainwhite-jekyll). 
 I think it's great for its simplicity and minimalism. The only thing I modified to the original codebase, is the default mode, that now is set to dark mode.
 
-**A reminder to myself of the future**: in case you forgot how to tweak configuration parameters and stuff, check the README.md inside that repo.
+**A reminder to myself of the future**: in case you forgot how to tweak configuration parameters and stuff of the theme, check the README.md inside the `plainwhite` repo.
 
-## Comments
+## Comments
 
 Commenting system is based on [utteranc.es](https://utteranc.es/). 
 This system is based on GitHub issues, so make sure this repository stay public to work correctly.
