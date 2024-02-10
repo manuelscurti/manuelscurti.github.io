@@ -2,7 +2,8 @@
 layout: page
 ---
 # About Me
-Ciao! I am a Computer Engineer from Italy. My interests lie in Deep Learning and Software Architectures.
+
+Ciao! I am a Computer Engineer from Italy. My interests lie in Software modelling, Large-scale distributed systems, Product development.
 I enjoy travelling, surfing, playing team sports and implementing ideas, for which I give my best through a compiler.
 
 The idea behind this personal homepage is to share my current learning progresses (no real time) together with my thoughs and experiences around implementations and ideas.
@@ -10,8 +11,9 @@ The idea behind this personal homepage is to share my current learning progresse
 # My Reading List
 
 - [Everybody is totally just winging it](https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it) - fav quote ever! thanks Mr Rip for sharing this 
-- [Domain Driven Design](https://www.amazon.it/dp/B00794TAUG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Eric Evans  
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.it/dp/B000SEIBB8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 
+- [Domain Driven Design](https://www.amazon.it/dp/B00794TAUG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Eric Evans  
+- [Learning Domain Driven Design](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture)
 
 # Alternative Me - Smize Music
 
@@ -25,8 +27,6 @@ This for sure influenced my musical tastes and styles, as you can hear from my S
 
 After 2 years, I stop this hobby to focus on my career track, but who knows if there will be a come back?
 
-**2022 UPDATE**: for sure I'll be back producing music! 
-
-By the way, you may be wondering how amazing I was at producing music. OK, there you go. **enjoy**!
+By the way, you may be wondering how amazing I was at producing music. Jokes aside, there you go. **enjoy**!
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1192769074&color=%23372c29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/smizemuzik" title="Smize" target="_blank" style="color: #cccccc; text-decoration: none;">Smize</a> · <a href="https://soundcloud.com/smizemuzik/sets/smize-own-tracks" title="Smize Own Tracks" target="_blank" style="color: #cccccc; text-decoration: none;">Smize Own Tracks</a></div>
