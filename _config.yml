@@ -17,7 +17,7 @@ plainwhite:
       url: "/about"
 
   name: Manuel Scurti
-  tagline: Data Engineer @ Agile Lab
+  tagline: Software Engineer @ Agile Lab
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -31,7 +31,7 @@ plainwhite:
   analytics_id: "UA-140700278-1"
   # generate social links in footer
   social_links:
-    twitter: manuelscurti
+    #twitter: manuelscurti
     github:  manuelscurti
     linkedIn: in/manuelscurti
     #rss: rss
@@ -42,7 +42,7 @@ plainwhite:
     #youtube: jekyll
     #facebook: jekyll
     #soundcloud: jekyll
-    telegram: elmanuelitosdev
+    #telegram: elmanuelitosdev
     #gitlab: jekyll
     #email: jekyll
 
